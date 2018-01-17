@@ -1,5 +1,6 @@
 # bashcoin
 Name : BashCoin
+
 Symbol : BASH
 Algorithm : Skein（POW/POS）
 Total amount : 72,000,000
