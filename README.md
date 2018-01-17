@@ -36,13 +36,21 @@ POW Reward Scheme
 129601 - 259200 Block Reward - 7 BASH
 
 259201 - 388800 Block Reward - 6 BASH
+
 388801 POW OVER
+
 POS Reward Scheme
+
 601 - 129600 Block Reward - 8 BASH
+
 129601 - 259200 Block Reward - 7 BASH
+
 259201 - 388800 Block Reward - 6 BASH
+
 388801 - all  Block Reward - 5 BASH
 
-Masternode Collateral: 5 000 BASH.
-Masternodes Rewards: 90% of POS Blocks.
+Masternode Collateral: 5 000 BASH
+
+Masternodes Rewards: 90% of POS Blocks
+
 Masternodes Activation: Since block 601(edited)
