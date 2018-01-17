@@ -1,4 +1,4 @@
-# bashcoin
+# BashCoin
 Name : BashCoin
 
 Symbol : BASH
@@ -53,4 +53,4 @@ Masternode Collateral: 5 000 BASH
 
 Masternodes Rewards: 90% of POS Blocks
 
-Masternodes Activation: Since block 601(edited)
+Masternodes Activation: Since block 601
