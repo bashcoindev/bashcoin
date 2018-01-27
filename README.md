@@ -1,7 +1,7 @@
 # BashCoin
 Name : BashCoin
 
-Symbol : BASH
+Symbol : BASHC
 
 Algorithm : Skein（POW/POS）
 
@@ -21,7 +21,7 @@ Diffculty Target : 10 blocks
 
 Stake Minimum Age: 24 Hours
 
-Masternode Requires : 5000BASH
+Masternode Requires : 5000BASHC
 
 RPCPORT = 22223
 
@@ -29,27 +29,27 @@ PORT = 22222
 
 POW Reward Scheme
 
-61 - 600 Block Reward - 1 BASH
+61 - 600 Block Reward - 1 BASHC
 
-601 - 129600 Block Reward - 8 BASH
+601 - 129600 Block Reward - 8 BASHC
 
-129601 - 259200 Block Reward - 7 BASH
+129601 - 259200 Block Reward - 7 BASHC
 
-259201 - 388800 Block Reward - 6 BASH
+259201 - 388800 Block Reward - 6 BASHC
 
 388801 POW OVER
 
 POS Reward Scheme
 
-601 - 129600 Block Reward - 8 BASH
+601 - 129600 Block Reward - 8 BASHC
 
-129601 - 259200 Block Reward - 7 BASH
+129601 - 259200 Block Reward - 7 BASHC
 
-259201 - 388800 Block Reward - 6 BASH
+259201 - 388800 Block Reward - 6 BASHC
 
-388801 - all  Block Reward - 5 BASH
+388801 - all  Block Reward - 5 BASHC
 
-Masternode Collateral: 5 000 BASH
+Masternode Collateral: 5 000 BASHC
 
 Masternodes Rewards: 90% of POS Blocks
 
