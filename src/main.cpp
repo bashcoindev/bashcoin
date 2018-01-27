@@ -1356,10 +1356,10 @@ static CBigNum GetProofOfStakeLimit(int nHeight)
 int64_t GetProofOfWorkReward(int nHeight, int64_t nFees)
 {
     int64_t nSubsidy = 0 * COIN;
-    //61 - 600 Block - 1 BASH per Block
-    //601 - 129600 Block - 8 BASH per Block
-    //129601 - 259200 Block - 7 BASH per Block
-    //259201 - 388800 Block - 6 BASH per Block
+    //61 - 600 Block - 1 BASHC per Block
+    //601 - 129600 Block - 8 BASHC per Block
+    //129601 - 259200 Block - 7 BASHC per Block
+    //259201 - 388800 Block - 6 BASHC per Block
     //388801
     if (nHeight <= 0) {
         nSubsidy = 0 * COIN; // premine

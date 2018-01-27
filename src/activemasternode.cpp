@@ -9,7 +9,7 @@
 #include "clientversion.h"
 
 //
-// Bootup the masternode, look for a 5000 BASH input and register on the network
+// Bootup the masternode, look for a 5000 BASHC input and register on the network
 //
 void CActiveMasternode::ManageStatus()
 {

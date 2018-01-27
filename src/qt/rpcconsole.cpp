@@ -66,7 +66,7 @@ void RPCExecutor::start()
 }
 
 /**
- * Split BashCoin command line into a list of arguments. Aims to emulate \c BASH and friends.
+ * Split BashCoin command line into a list of arguments. Aims to emulate \c BASHC and friends.
  *
  * - Arguments are delimited with whitespace
  * - Extra whitespace at the beginning and end and between arguments will be ignored
